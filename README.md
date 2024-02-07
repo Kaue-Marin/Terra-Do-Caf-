@@ -41,7 +41,7 @@ O projeto está disponível [aqui](https://github.com/Kaue-Marin/Terra-Do-Cafe).
 
 ## Pessoas Desenvolvedoras do Projeto
 
-- [Seu Nome](https://github.com/Kaue-Marin)
+- [Kauê Marin](https://github.com/Kaue-Marin)
 
 ## Licença
 
