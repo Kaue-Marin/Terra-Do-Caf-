@@ -1,9 +1,9 @@
 # Dashboard Interativo
 
-![eccomerce](link_para_imagem.jpg)
+![eccomerce](<imagens/logo/coffe%20(1).png>)
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg)](https://github.com/seu-username/seu-projeto)
+[![Status do Projeto](<![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)>)](https://github.com/Kaue-Marin/Terra-Do-Cafe)
 
 ## Índice
 
@@ -18,23 +18,20 @@
 
 ## Descrição do Projeto
 
-Um dashboard interativo desenvolvido em HTML, CSS e JavaScript para fornecer uma visão simplificada e visualmente atraente de dados e estatísticas importantes.
+Terra Do Café é um e-commerce desenvolvido em HTML, CSS e JavaScript, dedicado aos amantes de café que buscam explorar uma variedade de grãos de alta qualidade. Com uma interface intuitiva e elegante, os usuários podem explorar uma ampla seleção de cafés artesanais, desde grãos únicos até blends exclusivos.
 
 ## Status do Projeto
 
-Em Desenvolvimento
+concluído
 
 ## Funcionalidades e Demonstração
 
-- Gráficos interativos para análise de dados.
-- Visualização de métricas em tempo real.
-- Painéis personalizáveis para atender às suas necessidades.
-
-![Demonstração do Dashboard](link_para_imagem_demo.jpg)
+- Catálogo de café para navegação e compra.
+- Carrinho de compras para facilitar a seleção e compra dos produtos.
 
 ## Acesso ao Projeto
 
-O projeto está disponível [aqui](https://github.com/seu-username/seu-projeto).
+O projeto está disponível [aqui](https://github.com/Kaue-Marin/Terra-Do-Cafe).
 
 ## Tecnologias Utilizadas
 
@@ -42,13 +39,9 @@ O projeto está disponível [aqui](https://github.com/seu-username/seu-projeto).
 - CSS3
 - JavaScript
 
-## Pessoas Contribuidoras
-
-- [Nome da Pessoa](https://github.com/nome-da-pessoa)
-
 ## Pessoas Desenvolvedoras do Projeto
 
-- [Seu Nome](https://github.com/seu-username)
+- [Seu Nome](https://github.com/Kaue-Marin)
 
 ## Licença
 
