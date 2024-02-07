@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ing-simple-cart": "^1.0.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
